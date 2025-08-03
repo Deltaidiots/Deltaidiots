@@ -1,23 +1,5 @@
 Hi there! 👋 I'm Asad Hayat, a passionate researcher focused on **Automotive Perception** and **Generative AI**. Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=Automotive+Perception+%7C+Generative+AI+%7C+Researcher" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asad-hayat-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asad%20Hayat-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Deltaidiots?label=Followers&style=social" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I work on **Automotive Perception** and **Generative AI**
-
----
 ## Tools
 
 ![Pytorch](https://img.shields.io/badge/Pytorch-ff3c0c.svg?logo=pytorch&logoColor=white)
