@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/volf52/volf52/main/name.svg" alt="Asad Hayat" />
-</h1>
+Hi there! 👋 I'm Asad Hayat, a passionate researcher focused on **Automotive Perception** and **Generative AI**. Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=Automotive+Perception+%7C+Generative+AI+%7C+Researcher" alt="Typing SVG" />
